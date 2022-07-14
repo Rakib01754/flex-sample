@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#donation-type {
+    padding: 10%;
+
+}
+
+.donation-header {
+    text-align: center;
+    padding: 0% 20%;
+}
+
+.donation-header h1 {
+    font-size: 60px;
+}
+
+.donation-desc {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 40px;
+}
+
+.donation-catagory {
+    display: flex;
+    flex-basis: 40%;
+    padding: 20px 40px;
+    background-color: burlywood;
+    margin: 20px;
+
+}
+
+.cata-text {
+    margin: auto 20px;
+}
